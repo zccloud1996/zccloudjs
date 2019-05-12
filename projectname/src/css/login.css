@@ -1,0 +1,282 @@
+.log {
+    width: 1200px;
+    margin: 0 auto
+}
+
+/* header*/
+
+/* <!-- 左一logo --> */
+
+.log {
+    padding: 22px 0;
+    height: 44px
+}
+
+.log-1 {
+    font-size: 36px;
+    display: block
+}
+
+.log-2 {
+    font-size: 50px;
+    position: relative;
+    top: -40px;
+    display: block
+}
+
+h1 {
+    display: block;
+    float: left;
+    zoom: 1;
+    width: 110px;
+    height: 44px;
+}
+
+/* <!-- 中间文字 --> */
+
+.logo-text {
+    border-color: #ffb4a8;
+    background-color: #fef2f2;
+    color: #6C6C6C;
+    text-align: center;
+    width: 880px;
+    margin: 0 auto;
+    padding: 6px 10px;
+    overflow: hidden;
+    border: 1px solid #ffb4a8;
+    font-size: 12px
+}
+
+.log-3 {
+    font-size: 16px;
+    line-height: 44px
+}
+
+.log>a {
+    float: right;
+    color: #666;
+    font-size: 12px;
+    line-height: 44px
+}
+
+/* <!-- banner图 --> */
+
+#banner {
+    height: 600px;
+    background: url(https://gw.alicdn.com/tfs/TB17.THTmzqK1RjSZFHXXb3CpXa-2500-600.jpg) no-repeat center
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+/*-----------表单----------------------*/
+
+.input {
+    position: absolute;
+    top: 120px;
+    right: 60px;
+    width: 350px;
+}
+
+.input-wrap {
+    width: 300px;
+    padding: 25px 25px 23px;
+    color: #6c6c6c;
+    background: #fff;
+    position: relative;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, .9)
+}
+
+/* <!-- 标准登陆框 --> */
+
+.input-title {
+    height: 18px;
+    line-height: 18px;
+    font-size: 16px;
+    color: #3c3c3c;
+    margin-top: 9px;
+    padding-bottom: 8px;
+    font-weight: 700
+}
+
+.input-username {
+    margin-top: 20px;
+    position: relative;
+}
+
+.input-username input {
+    width: 240px;
+    font-size: 14px;
+    line-height: 18px;
+    height: 18px;
+    padding: 11px 8px 11px 50px;
+    border: 1px solid #ddd;
+}
+
+.input-username label {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    background: #ddd;
+    text-align: center;
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    outline: 0;
+}
+
+.input-username>label>i {
+    font-size: 22px;
+    color: #fff
+}
+
+
+.submit input{
+    display: inline-block;
+    height: 42px;
+    line-height: 36px;
+    width:300px;
+    padding: 0 20px;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    background: #ff4001;
+    border: 0;
+    border-radius: 3px!important
+}
+
+.weibo-logo {
+    font-size: 12px;
+    color: #6c6c6c;
+    ;
+    margin-right: 20px;
+}
+
+.weibo-logo i {
+    font-size: 16px;
+    margin-right: 3px;
+}
+
+.zhifubao-logo {
+    font-size: 12px;
+    color: #6c6c6c;
+    ;
+    margin-right: 20px;
+}
+
+.denglv-logo {
+    margin-top: 24px;
+}
+
+.zhifubao-logo i {
+    font-size: 16px;
+    margin-right: 3px;
+    color: #1ba9ee
+}
+
+.logo-link {
+    text-align: right;
+    margin-top: 24px
+}
+
+.logo-link a {
+    font-size: 12px;
+    color: #6c6c6c;
+    margin-right: 10px;
+}
+
+/*-----------------footer-------------->*/
+
+#footer {
+    position: relative;
+    margin: 60px auto 0;
+    padding: 7px 0 9px;
+    border-top: 1px solid #ddd;
+    width: 1200px;
+}
+
+.footer-head p {
+    margin-bottom: 8px;
+    line-height: 27px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    overflow: hidden;
+}
+
+.footer-head a {
+    margin: 0 4px;
+    font-size: 12px;
+    color: #6c6c6c;
+    float: left;
+}
+
+.footer-head b {
+    margin: 0 3px;
+    font-weight: 400;
+    color: #ddd;
+    font-size: 12px;
+    float: left;
+}
+
+.footer-body p {
+    padding-bottom: 8px;
+    overflow: hidden;
+}
+
+.footer-body a {
+    float: left;
+    margin: 0 4px;
+    white-space: nowrap;
+    color: #6c6c6c;
+    font-size: 12px
+}
+
+.footer-body em {
+    margin-left: 30px;
+    float: left;
+    white-space: nowrap;
+    color: #9c9c9c;
+    font-size: 12px;
+}
+
+.footer-body span {
+    margin: 0 4px;
+    float: left;
+    white-space: nowrap;
+    color: #9c9c9c;
+    font-size: 12px
+}
+
+.footer-body b {
+    float: left;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0 3px;
+    color: #9c9c9c;
+}
+.fooer-footer img{width:36px;height:36px}
+.box{height:16px}
+form{position: relative;}
+.error{
+    background-color: #fef2f2;
+    color: #6C6C6C;position: absolute;
+    top: -50px;
+    left: 0;line-height: 16px;
+    padding: 6px 10px;
+    overflow: hidden;
+    width: 278px;
+    border: 1px solid #ffb4a8;
+    display: none
+}
+.error i{float: left;}
+.error p{   margin-left:10px; float: left;
+    white-space: normal;
+    word-wrap: break-word;
+    width: 240px;}

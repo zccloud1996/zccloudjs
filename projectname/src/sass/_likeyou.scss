@@ -1,0 +1,115 @@
+.like-gif{
+    background-color: #FFF;
+    margin-top: 10px;
+    // height:1190px;
+    h3{
+        position: relative;
+    height: 22px;
+    line-height: 22px;
+    padding: 17px 18px;
+    font-size: 20px;
+    color: #ff9f00;
+    border-bottom: 1px solid #f4f4f4;
+    &::before{content: "";
+        position: relative;
+        float: left;
+        top: 2px;
+        width: 4px;
+        height: 16px;
+        background: #ff9f00;
+        background: linear-gradient(to bottom, #fad961, #ff9f00);
+        margin-right: 7px;
+    }
+}
+.like-gif-box{
+    float: left;
+    padding: 20px 20px 0 20px;
+    border: 1px solid transparent;
+    color: #6c6c6c;
+    width: 196px;
+    height: 312px;
+    overflow: hidden;
+    position: relative;
+    transition: border-color 0.3s;
+    border-right-color: #f4f4f4;
+    border-bottom-color: #f4f4f4;
+    h4{margin-top: 7px;
+        line-height: 22px;
+        height: 44px;
+        font-size: 14px;
+        color: #666;
+        font-weight: normal;
+        transition: color 0.3s;
+        overflow: hidden;}
+        p{    margin-top: 22px;
+            height: 24px;
+            line-height: 24px;}
+}
+}
+.like-pic{  
+    width: 197px;
+    height: 197px;
+    overflow: hidden;
+    img{display: block;
+        width: 101%;
+        height: 100%;}
+
+}
+.like-gif-small-pic{width: 33px;
+    background-image: url(https://img.alicdn.com/tps/i3/TB1xWZUKVXXXXXbXXXXdpC3GXXX-33-15.png);
+    left: 0px;
+    top: 5px;float: left;
+    height: 18px;
+    margin-right: 8px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    position: relative;
+    border-radius: 4px;
+    background-clip: padding-box;}
+    .like-gif-pir{
+        float: left;
+    color: #F40;
+    font-size: 20px;
+    em{display: inline-block;margin-right: 2px;
+        font-size: 12px;}
+    }
+    .like-gif-num{
+        float: right;
+    color: #9ca0aa;
+    margin-top: 3px;
+    }
+//   END
+.end{
+    height: 50px;position: relative;
+    i{position: absolute;
+        text-align: center;
+        color: #ccccd0;
+        left: 50%;
+        width: 84px;
+        line-height: 20px;
+        font-size: 18px;
+        margin-left: -42px;
+        font-style: normal;
+        top: 20px;
+        &::before{
+            left: -70px;
+            content: ' ';
+            position: absolute;
+            height: 0;
+            line-height: 0;
+            border-top: 1px solid #e6e6e6;
+            width: 60px;
+            top: 50%;} 
+            &::after{
+                right: -70px;    content: ' ';
+                position: absolute;
+                height: 0;
+                line-height: 0;
+                border-top: 1px solid #e6e6e6;
+                width: 60px;
+                top: 50%;
+            }
+
+        }
+    
+}  

@@ -1,0 +1,49 @@
+.lou-ti{
+    background:white;
+    div{text-align: center;
+        position: absolute;
+        width: 50px;
+        background:white;margin-right: -655px;
+        top: 478px;
+        z-index: 999;
+    right:50%}
+    a{  display: block;
+        height: 44px;
+        position: relative;
+        padding: 6px 8px 0;
+        text-align: center;
+        line-height: 17px;
+        font-size: 13px;
+        &:hover{ background-color: #F40;
+                background-color: #F40;
+                background-repeat: repeat-x;
+                color: white;
+                background-image: -webkit-linear-gradient(135deg,#ff971b,#ff5000);}
+        em{line-height: 40px}
+        &::before{content: '';
+            border-bottom: 1px solid #efefef;
+            width: 34px;
+            position: absolute;
+            left: 8px;
+            bottom: -1px;
+            z-index: 1;}}}
+.color-1{color:#f40}
+.color-2{color: #8d7afb}
+.color-3{color: #A8C001}
+.color-4{color:#f40}
+
+
+            .lou-box{border-top-right-radius: 8px;
+                border-top-right-radius: 8px;
+                border-top-left-radius: 8px;
+                padding-top:10px ;
+                // background-color: #F40;
+                // background-color: #F40;
+                // background-repeat: repeat-x;
+                // background-image: -webkit-linear-gradient(135deg,#ff971b,#ff5000);
+                font-weight: 700;color: #f40}
+                .active{background-color: #F40;
+                    background-color: #F40;
+                    background-repeat: repeat-x;
+                    background-image: -webkit-linear-gradient(135deg,#ff971b,#ff5000);
+                    font-weight: 700;color: white}

@@ -1,0 +1,64 @@
+@charset "UTF-8";
+.footer{margin-top: 20px;
+    padding-bottom: 9px;
+    background-color: #fff;
+    font-size: 12px;}
+    .wrapper{
+        width:1190px;margin:0 auto;}
+        // footer头部
+.footer-hd{
+    padding-top: 7px;
+    border-top: 1px solid #ddd; 
+    p{
+        margin-bottom: 8px;
+    line-height: 27px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    overflow: hidden;
+    span{
+
+        line-height: 27px;
+        a{white-space: nowrap;
+            color: #6c6c6c;
+        &:hover{color:#f40}}
+    }
+    b{margin: 0 3px;
+        font-weight: 400;   
+        color: #ddd;}
+    }
+}
+ // footer内容
+ .footer-bd{
+     p{
+        padding-bottom: 8px;
+        overflow: hidden;
+        span{margin: 0 4px;color: #9c9c9c;margin: 0 3px;
+        a{white-space: nowrap;
+            color: #6c6c6c;
+        &:hover{color:#f40}}
+    }
+    
+    b{
+        font-weight: 400;
+        color: #ddd;}
+    em{margin-left: 30px;
+        font-style: normal;color: #9c9c9c;}}
+        }
+     .footer-pic{display: inline-block;
+        background-position:-861px 0px; 
+        width:20px; height: 20px;
+         background-image: url(https://img.alicdn.com/tfs/TB1EPnIQXXXXXaSXpXXXXXXXXXX-1133-35.jpg);
+         vertical-align: middle;} 
+    .footer-ft{
+        span{    margin: 0 4px;
+               
+        a{
+            width: 36px;
+            background-image: url(https://img.alicdn.com/tfs/TB1EPnIQXXXXXaSXpXXXXXXXXXX-1133-35.jpg);margin-right: 15px;
+            height: 40px;
+            display: inline-block;
+            background-repeat: no-repeat;
+            vertical-align: middle;}}
+    }  
+    .footer-pic-2{background-image: url(http://img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif)!important}
+

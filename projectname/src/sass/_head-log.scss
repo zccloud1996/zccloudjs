@@ -1,0 +1,128 @@
+@charset "UTF-8";
+.head-logo{height:97px;
+    background:#fff;     padding-top: 24px;
+.wrapper{width:1190px;margin:0 auto;position: relative;}
+}
+// 淘宝logo
+.logo{float: left;
+    width: 190px;
+div{
+    width: 190px;
+    height: 80px;
+    float: left;
+    margin-top: 8px;
+    a{display: block;
+        margin-left: 22px;
+        padding-top: 58px;
+        width: 142px;
+        height: 0;
+        overflow: hidden;
+        text-indent: -9999px;   
+        background:url(https://img.alicdn.com/tfs/TB1_uT8a5ERMeJjSspiXXbZLFXa-143-59.png) no-repeat 0 0;font-size: 12px}
+}}
+/*--------------------------------*/
+// <!-- 搜索框上头的导航 -->
+.head-input{
+    margin-left: 258px;
+    margin-right: 302px;
+}
+.input-bd{height: 22px;
+    margin-left: 17px;}
+.input-top{
+    li{float: left;margin-right: 4px; width: 36px;
+        line-height: 22px;cursor: pointer;
+        font-weight: 700;    color: #F40;text-align: center}
+    :nth-of-type(1){
+    background-image: linear-gradient(to right,#ff9000 0,#ff5000 100%);
+    background-repeat: repeat-x;border-top-right-radius: 6px;
+    border-top-left-radius: 6px;color: #FFF;
+    }
+    :nth-of-type(2){&:hover{background:#FFE4DB}}
+    :nth-of-type(3){&:hover{background:#FFE4DB}}
+}
+// <!-- 搜索框 -->
+.input-box{position: relative;}
+.input-form{
+    
+.input-la{
+    border: 2px solid #ff5000;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-right: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+    height: 36px;
+    input{
+        padding: 6px 0;
+    text-indent: 10px;
+    height: 24px;
+    line-height: 24px;
+    width: 472px;
+    border: none;
+    outline: 0;
+    background: #FFF;
+    }
+  
+}
+.button{position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 100;
+    width: 74px;
+    height: 40px;
+    overflow: hidden;
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+button{font-size: 18px;
+    font-weight: 700;
+    color: #FFF;
+    background-color: #FF4200;
+    cursor: pointer;
+    height: 100%;
+    border: none;
+    width: 100%;
+    background-image: linear-gradient(to right,#ff9000 0,#ff5000 100%);}}
+
+}
+// <!-- 输入框下面的文字 -->
+.input-footer{
+    position: relative;
+    padding: 5px 41px 0 0;
+    height: 20px;
+    overflow: hidden;
+    a{
+        color:#3c3c3c;
+        &:hover{color:#f40}
+    }
+}
+// 二维码
+.logo-right{position: absolute;
+    top: 0;
+    right: 110px;
+a{position: relative;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    width: 74px;
+    height: 88px;
+    color: #666;
+    border: 1px solid #eee;
+    background-color: #FFF;
+img{display: block;
+    margin-left: 6px;
+    width: 62px;
+    height: 62px;}}
+    // 二维码关闭
+    i{position: absolute;
+        top: 0;
+        left: -16px;
+        display: block;
+        width: 14px;
+        height: 14px;
+        border: 1px solid #eee;
+    }
+}
+
+    

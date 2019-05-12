@@ -1,0 +1,74 @@
+body {
+    background: #f5f5f5; }
+    body a {
+      color: #3C3C3C; }
+    body i {
+      font-style: normal; }
+    body b {
+      font-style: normal; }
+  
+  body {
+    font-size: 12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif; }
+  
+  .head-register {
+    height: 35px;
+    background: #f5f5f5; }
+    .head-register .wrapper {
+      width: 1190px;
+      margin: 0 auto;
+      font-size: 12px; }
+      .head-register .wrapper .head-left {
+        float: left;
+        height: 35px; }
+        .head-register .wrapper .head-left li {
+          float: left; }
+  
+  .head-box {
+    position: relative;
+    padding: 0 6px;
+    height: 35px;
+    line-height: 35px; }
+    .head-box .head-text {
+      float: left;
+      margin-right: 7px; }
+    .head-box a {
+      color: #6c6c6c;
+      margin-right: 7px; }
+      .head-box a:hover {
+        color: #ff5000; }
+  
+  .head-link {
+    color: #ff5000 !important; }
+  
+  .head-icon {
+    display: block;
+    float: left;
+    width: 12px;
+    height: 6px;
+    line-height: 6px;
+    overflow: hidden;
+    margin-top: 16px; }
+    .head-icon span {
+      display: block;
+      margin-top: -4px;
+      margin-right: 20px;
+      color: #9c9c9c; }
+  
+  /*---------head-right--------------------*/
+  .head-right {
+    float: right; }
+    .head-right li {
+      float: left; }
+    .head-right :nth-of-type(5) {
+      height: 35px;
+      line-height: 35px;
+      padding: 0 5px;
+      font-style: normal;
+      color: #ddd; }
+  
+  .right-box i {
+    float: left;
+    cursor: pointer;
+    color: #f40; }
+  .right-box a {
+    float: left; }
